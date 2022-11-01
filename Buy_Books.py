@@ -1,0 +1,5 @@
+n=int(input())
+l=list(map(int,input().split(" ")))
+m=list(map(int,input().split(" ")))
+if(sum(m)-sum(l)>=0):print(sum(m)-sum(l))
+else:print("0")
