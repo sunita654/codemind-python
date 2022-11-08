@@ -18,3 +18,4 @@ for z in range(k):
            maxDist = abs(number - p)
            numb = p
     print(numb)
+   
